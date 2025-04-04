@@ -10,7 +10,7 @@
 ### 🎓 Education
 
 **Bachelor of Engineering in Computer Science**  
-📍 *The National Institute Of Engineering, Mysore, Karnataka (2020 - 2024)*  
+📍 *The National Institute Of Engineering, Mysore, Karnataka  *  
 
 ---
 
