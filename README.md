@@ -1,9 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Umesh Aradhya P</h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#4CAF50">Umesh Aradhya P</span></h1>
 
 <p align="center">
-🚀 DevOps & Cloud Enthusiast | 💡 Machine Learning Explorer | 💻 Software Developer<br/>
-📍 Passionate about solving real-world problems using tech.
+🌟 A curious mind passionate about bridging the gap between <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>AI/ML</strong><br>
+🚀 Turning ideas into reality with code, containers, and creativity<br>
+💬 Let's build smarter systems that solve real-world problems — one deploy at a time!
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00DDBB&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+Cloud+Native+Practitioner;ML+%26+AI+Learner+%7C+Open+Source+Contributor;Always+Learning+%E2%9C%85+Always+Building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</p>
+
 
 ---
 
